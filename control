@@ -1,9 +1,11 @@
 Package: cn.sttt.wchookcell
 Name: WCHookCell
-Version: 0.0.1
+Version: 1.0.0
 Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
+Description: WeChat plugin management registration example
 Maintainer: sttt
 Author: sttt
 Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000)
+Icon: https://Mieing.Github.io/repo/file/wechat.png
+

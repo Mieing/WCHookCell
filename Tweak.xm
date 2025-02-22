@@ -1,11 +1,7 @@
 #import <UIKit/UIKit.h>
 #import <objc/runtime.h>
 #import "substrate.h"
-#import "WCPLSettingViewController.h"
 
-// 声明NSUserDefaults的常量
-static NSString *const kCustomPlaceholderColor = @"kCustomPlaceholderColor";
-static NSString *const kCustomPlaceholderText = @"kCustomPlaceholderText";
 
 // 微信相关类声明
 @interface WCPluginsMgr : NSObject
